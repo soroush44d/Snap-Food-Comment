@@ -1,2 +1,2 @@
 # Snap-Food-Comment
- sentiment analysis Base On SnapFood DataSet
+ Sentiment Analysis Based On SnapFood DataSet Using Neural Network & Svm
